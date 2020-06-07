@@ -78,7 +78,6 @@ npm install
 On /server
 
 ```
-npm install
 npm run knex:migrate
 npm run knex:seed
 ```
