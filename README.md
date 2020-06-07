@@ -112,4 +112,4 @@ Distributed under the MIT License.
 
 Carlos Castro - contato-carloscastro@hotmail.com
 
-Feito com preguiça e tristeza.
+Made with laziness and sorrow.
