@@ -60,7 +60,7 @@ Ecoleta Application developed on Next Level Week 01 by Rocketseat.
 </p>
 <br/>
 
-## Getting started
+# Getting started
 
 ## Prerequisites
 
